@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Galib Mahmud Jim</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=galibmahmudjim&label=Profile%20views&color=0e75b6&style=flat" alt="galibmahmudjim" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=galibmahmudjim&theme=" alt="galibmahmudjim" /></a> </p>
-
 
 - 📫 How to reach me **galibmahmudjim@gmail.com**
 
@@ -36,15 +32,3 @@
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galibmahmudjim&layout=compact&theme=" alt=galibmahmudjim />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=galibmahmudjim&show_icons=true&locale=en&theme=" alt="galibmahmudjim" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/galibmahmudjim">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=galibmahmudjim&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=galibmahmudjim&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=galibmahmudjim&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=galibmahmudjim&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=galibmahmudjim&theme=2077" height="180em" />
-</div>
