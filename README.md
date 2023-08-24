@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Galib Mahmud Jim</h1>
-<h3 align="center">CSE undergrad passionate about coding and innovation. Dedicated to learning and creating impactful solutions.</h3>
 
 - 📫 How to reach me **galibmahmudjim@gmail.com**
 
